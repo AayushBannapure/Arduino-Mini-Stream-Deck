@@ -35,6 +35,26 @@ The controls are as follows:
 
 Doing the same while holding `CTRL` controls the screen brightness.
 
+## Features
+
+- 9 Touch-based Macro Buttons
+- System Volume Control
+- System Brightness Control
+- Serial Communication between Arduino and Python
+- Windows 11 Integration
+- Physical Joystick for additional controls
+
+## Software Requirements
+
+- Windows 11
+- Python 3.x
+- Arduino IDE / PlatformIO
+- PySerial
+
+Install PySerial using:
+
+pip install pyserial
+
 ## Project Preview
 
 Below is a screenshot of the project:
@@ -54,3 +74,12 @@ Below is a screenshot of the project:
 5. **Connect the Arduino** and then run the Python script. Make sure you close the serial port from the Arduino IDE / PlatformIO window before running the script.
 
 6. **Enjoy!**
+
+## Project Structure
+
+.
+├── Arduino/
+│   └── firmware.ino
+├── Python/
+│   └── main.py
+└── README.md
