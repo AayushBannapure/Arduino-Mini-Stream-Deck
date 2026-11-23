@@ -87,7 +87,7 @@ Below is a screenshot of the project:
 6. **Enjoy!**
 
 ## Project Structure
-
+```text
 .
 |---Arduino/
 |   |--firmware.ino
