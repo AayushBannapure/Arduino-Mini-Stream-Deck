@@ -10,6 +10,17 @@ Although the macros in this project are not directly programmable, it still offe
 
 This is a beginner project and is not very polished (hardware-wise). Also, it is currently compatible with **Windows 11 only**.
 
+The 9 Macros are
+1. Terminal
+2. VS-Code
+3. Browser
+4. Files
+5. Calculator
+6. Screenshot
+7. Task Manager
+8. Lock PC
+9. Notepad
+
 ## Hardware & Implementation
 
 I have used:
@@ -78,8 +89,12 @@ Below is a screenshot of the project:
 ## Project Structure
 
 .
-├── Arduino/
-│   └── firmware.ino
-├── Python/
-│   └── main.py
-└── README.md
+|---Arduino/
+|   |--firmware.ino
+|
+|---Python/
+|   |--main.py
+|
+|---README.md
+
+
