@@ -66,11 +66,6 @@ Install PySerial using:
 
 pip install pyserial
 
-## Project Preview
-
-Below is a screenshot of the project:
-
-<img width="1280" height="960" alt="Arduino Mini Stream Deck" src="https://github.com/user-attachments/assets/db09d10b-4d95-4bdd-87dd-dff80e144e2a" />
 
 ## How to Run
 
@@ -97,4 +92,17 @@ Below is a screenshot of the project:
 |
 |---README.md
 
+```
+## Project Preview
+
+Below is a screenshot of the project:
+
+<img width="1280" height="960" alt="Arduino Mini Stream Deck" src="https://github.com/user-attachments/assets/db09d10b-4d95-4bdd-87dd-dff80e144e2a" />
+
+
+
+https://github.com/user-attachments/assets/13f0b38a-2165-430e-a349-49eab853c903
+
+
+https://github.com/user-attachments/assets/6ad26e27-ac3d-45d5-a9f3-9c9ed569194d
 
